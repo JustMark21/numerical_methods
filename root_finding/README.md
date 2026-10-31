@@ -1,4 +1,4 @@
-> **Preface:** The last one or two rows of most tables have strange ratios, that's because the error has reached the limit of double precision, so the last errors are just rounding noise and the ratios are meaningless. So that's garbage, I ignored those.
+> **Preface:** The last one or two rows of most tables have strange ratios, that's because the error has reached the limit of double precision, so the last errors are just rounding noise and the ratios are meaningless. I ignored those.
 
 ## Bisection Method:
 
